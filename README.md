@@ -4,5 +4,5 @@
 - [Laravel - 从百草园到三味书屋 "From Apprentice To Artisan" 翻译](http://my.oschina.net/zgldh/blog/389246)
 
 ## AMV
-- Pink God O2jam
+- O2Jam - Pink Gold
 - 终结的炽天使 OP 转圈
