@@ -7,6 +7,7 @@
 - O2Jam - Pink Gold
 - 终结的炽天使 OP 转圈
 - Pink Gold Lyrics:
+```
     ~~ 전주
     
     그대에게 받은 예쁜반지를
@@ -51,3 +52,4 @@
     우-------
     Pink Gold
     우우---------
+```
