@@ -7,7 +7,7 @@
 - O2Jam - Pink Gold (https://youtu.be/NNjlN_Hry00)
 - 终结的炽天使 OP 转圈
 - Pink Gold Lyrics ver1:
-```
+~~~
 ~~ 전주
 
 그대에게 받은 예쁜반지를
@@ -104,4 +104,4 @@ Song by banami
 우우우~ 핑크골드~
 우우우~ 핑크골드~
 우우우우~우우우우~
-```
+~~~
