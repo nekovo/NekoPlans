@@ -12,4 +12,8 @@ categories: collect
 ## 口琴
 
 ## AMV/AMD 制作
-  - [教练我想学系列](http://www.bilibili.com/video/av2884017/)
+  - 软件
+    - [CC 2015 安装流程与 xx 方法](http://www.macx.cn/thread-2164762-1-1.html)
+    - [Adobe CC 2015 下载](http://www.macx.cn/thread-2164746-1-2.html)
+  - 教程
+    - [教练我想学系列](http://www.bilibili.com/video/av2884017/)
