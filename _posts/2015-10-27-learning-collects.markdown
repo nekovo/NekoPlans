@@ -10,6 +10,11 @@ categories: collect
   - [Laravel - 从百草园到三味书屋 "From Apprentice To Artisan" 翻译](http://my.oschina.net/zgldh/blog/389246)
   - [被误解的 MVC 和被神化的 MVVM](http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/)
 
+## Vim
+  - [VIM as PHP IDE - PHP Unconference 2015](https://www.youtube.com/watch?v=2ME-aqoUpaU)
+  - [WKLKEN BUILDING - Vim](http://www.wklken.me/category/vim.html)
+  - [Vim 的哲学系列](http://segmentfault.com/a/1190000000458565)
+
 ## 口琴
 
 ## AMV
