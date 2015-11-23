@@ -77,16 +77,16 @@ categories: collect
   - Ctags
     - 安装
 
-        # you have ctags but it does not work...
-        $ ctags -R --exclude=.git --exclude=log *
-        ctags: illegal option -- R
-        usage: ctags [-BFadtuwvx] [-f tagsfile] file ...
-        
-        #you need to get new ctags, i recommend homebrew but anything will work
-        $ brew install ctags
-        
-        #alias ctags if you used homebrew
-        $ alias ctags="`brew --prefix`/bin/ctags"
+          # you have ctags but it does not work...
+          $ ctags -R --exclude=.git --exclude=log *
+          ctags: illegal option -- R
+          usage: ctags [-BFadtuwvx] [-f tagsfile] file ...
+          
+          #you need to get new ctags, i recommend homebrew but anything will work
+          $ brew install ctags
+          
+          #alias ctags if you used homebrew
+          $ alias ctags="`brew --prefix`/bin/ctags"
 
     - 使用
         - ctrl-] 匹配单词并压入标签栈
